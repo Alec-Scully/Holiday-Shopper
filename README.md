@@ -1,3 +1,35 @@
+# Welcome to the Holiday Shopper!
+
+You can find a video demo [here](https://www.youtube.com/watch?v=N1G5pjjhYpo).
+
+This repo was my [Flatiron](www.flatironschool.com) phase 1 project.
+
+If you want to run the application yourself, follow these directions:
+cd into the /bin folder and run:
+``` javascript
+  ruby run.rb
+```
+
+ABOUT:
+  This project was designed to be a wishlist manager for shoppers, as well as an inventory manager for store owners.
+  
+USER STORIES:
+  * A user should be able to find information on both stores and specific items inside of those stores.
+  * A user should be able to create/edit/save/delete their own stores.
+  * A user should be able to create/edit/save/delete their own items inside of their stores.
+
+PROJECT SPECIFICATIONS:
+  * This project was created using all .rb files with a seeded database
+
+FUTURE GOALS:
+  * Redesign the "frontend" to have better variable names
+  * Use switch cases instead of if/else if blocks
+
+
+# Note: The original Project Guidelines are found below!
+
+* * * 
+
 # Module One Final Project Guidelines
 
 Congratulations, you're at the end of module one! You've worked crazy hard to get here and have learned a ton.
